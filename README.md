@@ -1,6 +1,6 @@
 # mapup
 
-This template should help get you started developing with Vue 3 in Vite.
+data maping using chart Js visialixation similar to admin dashboard initial set up done optimization and design update required
 
 ## Recommended IDE Setup
 
